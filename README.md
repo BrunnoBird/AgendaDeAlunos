@@ -1,4 +1,4 @@
-# Agenda de Alunos
+# Agenda de Alunos, Android Nativo
 Projeto simples abordando conceitos como: 
 - Cadastro de alunos em uma lista.
 - Remoção de um aluno da lista usando conceitos de Dialog Interface.
